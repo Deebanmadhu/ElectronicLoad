@@ -7,9 +7,8 @@ Sheet 1 4
 Title "Electronic Load"
 Date "2020-08-21"
 Rev "1"
-Comp "Larsen & Toubro Ltd"
 Comment1 "Drawn by : Deebanmadhu"
-Comment2 "Designed by : Deebanmadhu/P Sunitha "
+Comment2 "Designed by : Deebanmadhu"
 Comment3 ""
 Comment4 ""
 $EndDescr
